@@ -23,7 +23,7 @@
 
     <properties>
         <java.version>1.8</java.version>
-        <datastax.java.driver.version>4.2.0</datastax.java.driver.version>
+        <datastax.java.driver.version>4.6.0</datastax.java.driver.version>
         <datastax.java.driver.spring.version>1.0.0-SNAPSHOT</datastax.java.driver.spring.version>
         <coveo.fmt.version>2.2.0</coveo.fmt.version>
         <mycila.version>3.0</mycila.version>
